@@ -1,7 +1,7 @@
 # faderzz // adil
 
 Software engineer, product founder, and CEO based in Manchester, UK.  
-Specializing in full stack development, mobile apps, and SaaS products.
+Specialising in full stack development, mobile apps, and SaaS products.
 
 ***
 
@@ -20,6 +20,8 @@ Specializing in full stack development, mobile apps, and SaaS products.
 ## Skills
 
 Full stack development with TypeScript, React, Next.js, and Node.js; mobile app launches; SaaS architecture; product strategy.
+
+I basically do everything, from development, to graphic design and marketing.
 
 ***
 
