@@ -13,7 +13,7 @@ Specialising in full stack development, mobile apps, and SaaS products.
 
 - **haye-saas**: Loyalty-as-a-service and revenue/link tracking software. Available at [haye.app](https://haye.app).
 
-- **Noire.sh**: A product of Noire Agency. This is a B2B, Multitenant SaaS platform that allows agencies to onboard their clients with a Client Portal, manage their projects and keep clients updated easily, built-in CRM and Finance tools such as invoicing through Stripe.
+- **R2C**: A recruitment platform where recruiters approach you. [recruiter2candidate.com](recruiter2candidate.com).
 
 ***
 
